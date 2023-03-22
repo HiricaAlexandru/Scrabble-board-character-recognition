@@ -1,3 +1,5 @@
+The project documentation is in "Tema 1_cava_Hirica_Ioan_Alexandru.pdf"
+
 1. the libraries required to run the project including the full version of each library
 
 
